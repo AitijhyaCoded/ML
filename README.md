@@ -1,2 +1,2 @@
-# ML
-Machine Learning practice codes semester 5
+# Machine Learning Practicals
+This repo contains implementations of core ML algorithms like Linear Regression, Logistic Regression and SVM using both scratch (NumPy) and scikit-learn. Each practical covers dataset preparation, model training, evaluation, and visualization. Datasets used include Iris (for regression & classification) and Breast Cancer (for SVM). The focus is on understanding the concepts, comparing scratch vs library implementations, and analyzing performance with metrics like accuracy, precision, recall, F1-score, confusion matrix, and explained variance.
